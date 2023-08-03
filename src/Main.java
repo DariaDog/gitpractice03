@@ -4,5 +4,7 @@ public class Main {
 
 
         System.out.println("this is a new code");
+
+        System.out.println("hello");
     }
 }
